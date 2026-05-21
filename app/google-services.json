@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "123456789012",
+    "project_id": "subify-mock-project",
+    "storage_bucket": "subify-mock-project.appspot.com",
+    "firebase_url": "https://subify-mock-project.firebaseio.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:1234567890abcdef",
+        "android_client_info": {
+          "package_name": "com.example.subify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1234567890-mock.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyMockKeyForSubifyTestingOnly"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
